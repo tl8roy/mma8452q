@@ -5,7 +5,6 @@ authors = ["Tristan Lostroh <tl8roy@gmail.com>"]
 edition = "2018"
 license = "MIT"
 description = "A platform agnostic driver to interface with the MMA8452Q 3-Axis Accelerometer via I2C [embedded-hal] and implements the [`Accelerometer` trait][trait] from the `accelerometer` crate.  This chip can be found on Sparkfun's MMA8452Q breakout board."
-readme = "README.md"
 keywords = ["accelerometer", "sensor", "i2c", "driver", "embedded-hal-driver"]
 categories = ["embedded", "hardware-support", "no-std"]
 
